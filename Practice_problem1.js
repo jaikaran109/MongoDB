@@ -45,8 +45,8 @@ db.students.insertMany([
   },
   {
     name: "Priya",
-    age: 24
-        course: "Data Science",
+    age: 24,
+    course: "Data Science",
     marks: 88,
     city: "Delhi",
     status: "active"
