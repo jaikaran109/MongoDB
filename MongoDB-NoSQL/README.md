@@ -8,6 +8,7 @@ Ye folder MongoDB ke 4 important tools/concepts ko cover karta hai — jo practi
 | [`02-mongosh.md`](./02-mongosh.md) | Command line se database ke saath baat karne ka tareeka |
 | [`03-compass.md`](./03-compass.md) | GUI tool — bina command likhe database dekhna |
 | [`04-atlas.md`](./04-atlas.md) | Cloud pe MongoDB host karna (bina apne laptop pe install kiye) |
+| [`05-aggregation.md`](./05-aggregation.md) | Aggregation pipeline — data ko group/filter/calculate karna |
 
 **Simple analogy pehle samajh lo:**
 
